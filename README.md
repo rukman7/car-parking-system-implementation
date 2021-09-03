@@ -3,13 +3,13 @@
 steps to run the program in command line
 
 1. clone the repository.
-2. change the file path in main program (sample input file is in root directory with name parkingSystem.txt).
-3. go to the path car-parking-system-implementation/src/com/company and execute the following command:\
+2. change the file path in main program (sample input file is in root directory with name _parkingSystem.txt_).
+3. go to the path _car-parking-system-implementation/src/com/company_ and execute the following command:\
    `javac *.java`
-4. go to the car-parking-system-implementation/src directory and execute the below command:\
+4. go to the _car-parking-system-implementation/src_ directory and execute the below command:\
    `java com/company/Main`
    
-Java version information on the tested system.\
+Java version information on the tested system.
 ```bash
 openjdk 11.0.11 2021-04-20\
 OpenJDK Runtime Environment AdoptOpenJDK-11.0.11+9 (build 11.0.11+9)\
