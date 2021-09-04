@@ -3,11 +3,16 @@
 ### command format
 ```bash
 Create_parking {size:Integer} -> creates a parking lot with a given size
+
 Park {vehicleNumber:String} driver_age {age:Integer} -> parks a vehicle in a free slot and prints the slot used
+
 Slot_numbers_for_driver_of_age {age:Integer} -> prints list of slot numbers for a given age
+
 Slot_number_for_car_with_number {vehicleNumber:String} -> prints slot number of a car for the provided vehicle number
+
 Leave {slot:Integer} -> remove a vehicle from the given slot
-Vehicle_registration_number_for_driver_of_age {age:Integer} -> prints all vehicle numbers whose driver's age matches the age given in the command
+
+Vehicle_registration_number_for_driver_of_age {age:Integer} -> prints all vehicle numbers whose driver\'s age matches the age given in the command
 ```
 
 ### steps to run the program in command line
