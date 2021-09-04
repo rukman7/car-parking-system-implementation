@@ -6,7 +6,7 @@ public class Car {
     private Integer driverAge;
     private int allotedSlot;
 
-    Car(String licenseNumber, Integer driverAge, int allotedSlot){
+    public Car(String licenseNumber, Integer driverAge, int allotedSlot){
         this.vehicleNumber = licenseNumber;
         this.driverAge = driverAge;
         this.allotedSlot = allotedSlot;

@@ -54,7 +54,7 @@ public class CommandTranslator {
         }
     }
 
-    public static boolean isNull(CarParkingSystem sys){
+    private static boolean isNull(CarParkingSystem sys){
         if(sys == null){
             System.out.println("Please create a parking lot");
             return true;
