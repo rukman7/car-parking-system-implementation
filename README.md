@@ -47,7 +47,7 @@ No vehicles with the provided age(18) exist
 ### sample unit tests can be found in below path
     car-parking-system-implementation/src/com/company/tests
    
-Java version information on the tested system.
+### Java version information on the tested system.
 ```bash
 openjdk 11.0.11 2021-04-20
 OpenJDK Runtime Environment AdoptOpenJDK-11.0.11+9 (build 11.0.11+9)
