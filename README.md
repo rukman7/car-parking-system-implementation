@@ -17,6 +17,9 @@ Vehicle_registration_number_for_driver_of_age {age:Integer} -> prints all vehicl
 '''
 ```
 
+### sample unit tests can be found in below path
+    car-parking-system-implementation/src/com/company/tests
+
 ### steps to run the program in command line
 
 1. clone the repository.
