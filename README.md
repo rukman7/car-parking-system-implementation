@@ -48,10 +48,10 @@ No vehicles with the provided age(18) exist
     car-parking-system-implementation/src/com/company/tests
     
 ### assumptions
-* _There is only one entrance through which a vehicle can leave and enter._\
-* _All vehicles are considered to be of the same type._\
-* _It is assumed that the owner of the vehicle would park his vechicle in his allotted slot._\
-* _Time and pay will not be tracked._\
+* _There is only one entrance through which a vehicle can leave and enter._
+* _All vehicles are considered to be of the same type._
+* _It is assumed that the owner of the vehicle would park his vechicle in his allotted slot._
+* _Time and pay will not be tracked._
 * _License number of every vehicle is unique._
 
 ### java version information on the tested system.
