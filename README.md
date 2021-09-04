@@ -8,6 +8,13 @@
    `javac *.java`
 4. go to the _car-parking-system-implementation/src_ directory and execute the below command:\
    `java com/company/Main`
+   
+### working
+
+1. inputs are given in form of commands. set of commands that are to be executed are placed in a file.\
+2. each command is separed by a new line.\
+3. the file is then loaded into the main program.\
+4. upon execution each method associated with the given command will called.\
 
 ### command format
 ```python
