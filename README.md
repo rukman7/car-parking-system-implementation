@@ -1,5 +1,14 @@
 # car-parking-system-implementation
 
+### steps to run the program in command line
+
+1. clone the repository.
+2. change the file path in main program (sample input file is in root directory with name _parkingSystem.txt_).
+3. go to the path _car-parking-system-implementation/src/com/company_ and execute the following command:\
+   `javac *.java`
+4. go to the _car-parking-system-implementation/src_ directory and execute the below command:\
+   `java com/company/Main`
+
 ### command format
 ```python
 '''
@@ -37,15 +46,6 @@ No vehicles with the provided age(18) exist
 
 ### sample unit tests can be found in below path
     car-parking-system-implementation/src/com/company/tests
-
-### steps to run the program in command line
-
-1. clone the repository.
-2. change the file path in main program (sample input file is in root directory with name _parkingSystem.txt_).
-3. go to the path _car-parking-system-implementation/src/com/company_ and execute the following command:\
-   `javac *.java`
-4. go to the _car-parking-system-implementation/src_ directory and execute the below command:\
-   `java com/company/Main`
    
 Java version information on the tested system.
 ```bash
