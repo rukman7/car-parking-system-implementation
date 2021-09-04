@@ -1,5 +1,10 @@
 # car-parking-system-implementation
 
+###command format
+
+Create_parking {size:integer}  -> creates a parking lot with a given size
+Park {String:vehicleNumber} driver_age {integer:age}   -> parks a vehicle in a free slot and prints the slot used
+
 steps to run the program in command line
 
 1. clone the repository.
