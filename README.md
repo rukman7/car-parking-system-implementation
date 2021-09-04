@@ -17,6 +17,24 @@ Vehicle_registration_number_for_driver_of_age {age:Integer} -> prints all vehicl
 '''
 ```
 
+### sample output
+```python
+#output below is for sample input file 'parkingSystem.txt' present in the path [car-parking-system-implementation/parkingSystem.txt]
+'''
+Created parking of 6 slots
+Car with vehicle registration number "KA-01-HH-1234" has been parked at slot 1
+Car with vehicle registration number "PB-01-HH-1234" has been parked at slot 2
+[1, 2]
+No slots for provided age(18) exist
+Car with vehicle registration number "PB-01-TG-2341" has been parked at slot 3
+Slot number of the vehicle PB-01-HH-1234 is 2
+Provided slot 2 has been successfully emptied
+Car with vehicle registration number "HR-29-TG-3098" has been parked at slot 2
+No vehicle with number PB-01-HH-6789 is present in the parking lot
+No vehicles with the provided age(18) exist
+'''
+```
+
 ### sample unit tests can be found in below path
     car-parking-system-implementation/src/com/company/tests
 
