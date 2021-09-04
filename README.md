@@ -12,7 +12,7 @@ Slot_number_for_car_with_number {vehicleNumber:String} -> prints slot number of 
 
 Leave {slot:Integer} -> remove a vehicle from the given slot
 
-Vehicle_registration_number_for_driver_of_age {age:Integer} -> prints all vehicle numbers whose driver'\s age matches the age given in the command
+Vehicle_registration_number_for_driver_of_age {age:Integer} -> prints all vehicle numbers whose driver/'s age matches the age given in the command
 ```
 
 ### steps to run the program in command line
