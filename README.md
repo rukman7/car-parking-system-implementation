@@ -46,8 +46,15 @@ No vehicles with the provided age(18) exist
 
 ### sample unit tests can be found in below path
     car-parking-system-implementation/src/com/company/tests
-   
-### Java version information on the tested system.
+    
+### assumptions
+*. There is only one entrance through which a vehicle can leave and enter.
+*. All vehicles are considered to be of the same type.
+*. It is assumed that the owner of the vehicle would park his vechicle in his allotted slot.
+*. Time and pay will not be tracked.
+*. License number of every vehicle is unique.
+
+### java version information on the tested system.
 ```bash
 openjdk 11.0.11 2021-04-20
 OpenJDK Runtime Environment AdoptOpenJDK-11.0.11+9 (build 11.0.11+9)
