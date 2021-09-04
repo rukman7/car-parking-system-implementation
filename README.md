@@ -60,6 +60,7 @@ No vehicles with the provided age(18) exist
 * _It is assumed that the owner of the vehicle would park his vechicle in his allotted slot._
 * _Time and pay will not be tracked._
 * _License number of every vehicle is unique._
+* _All operations are squential_
 
 ### java version information on the tested system.
 ```bash
